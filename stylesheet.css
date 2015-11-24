@@ -1,0 +1,46 @@
+h1 {
+	font-size: 30px;
+	font-family: Arial;
+    color: black;
+}
+p{
+	font-size: 20px;
+	font-family: Arial;
+}
+table, td{
+	font-size: 35px;
+	font-family: Arial;
+
+}
+ul {
+	font-size: 20px;
+	font-family: Arial;
+	padding-bottom: 60px;
+}
+
+div {
+	border-radius: 1px;
+	border: 1px solid #6495ED;
+	background-color: #BCD2EE;
+    height: 37px;
+}
+
+h2{
+	font-size: 50px;
+	font-family: Impact;
+}
+span {
+	font-size: 15px;
+}
+p {
+	padding-bottom: 60px;
+}
+h4 {
+	font-size: 30px;
+}
+body {
+	background-image: url("http://www.knick-knack.com/big_images/elbert_2001_panoramic_02.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
